@@ -2,9 +2,13 @@
 We have so many messaging applications in this internet age, but each app has its own set of advantages and disadvantages. We don't receive all we need in a single product. The existing applications also have numerous security flaws. As a result, our primary goal is to provide users with trust and security.
 
 •	The goal of this project is to construct a chat application that includes a server and allows users to talk with one another.
+
 •	Create an instant messaging service that allows users to converse with one another in real time.
+
 •	The project should be simple enough that even a novice user can utilise it.
+
 •	This project has the potential to be very useful in organisations where employees can connect through LAN.
+
 •	The major goal of this project is to provide network-based multi-chat capabilities..
 
 # SCREENSHOT
